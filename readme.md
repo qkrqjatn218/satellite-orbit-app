@@ -1,6 +1,6 @@
 # 🛰️ Satellite Orbit Propagation Studio
 
-Streamlit 웹 앱은 TLE 데이터를 사용하여 위성 궤도의 궤적, 시각화 및 분석에 활용할 수 있습니다.
+해당 웹 앱은 TLE 데이터를 사용하여 위성 궤도의 궤적, 시각화 및 분석에 활용할 수 있습니다. 
 
 ## 🔧 Features
 - CelesTrak TLE data integration
