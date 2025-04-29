@@ -1,6 +1,6 @@
 # 🛰️ Satellite Orbit Propagation Studio
 
-This Streamlit web app enables real-time simulation, visualization, and analysis of satellite orbits using Two-Line Element (TLE) data.
+Streamlit 웹 앱은 TLE 데이터를 사용하여 위성 궤도의 궤적, 시각화 및 분석에 활용할 수 있습니다.
 
 ## 🔧 Features
 - CelesTrak TLE data integration
@@ -25,7 +25,7 @@ streamlit run app.py
 
 ```
 /project
-│   home.py                         # 메인 진입점 - 로그인 후 페이지 라우팅
+│   home.py                         # 메인 진입점 - 로그인
 │   app.py                          # 앱 실행 시작점 - 로그인 로직    
 |
 ├── Reports/
