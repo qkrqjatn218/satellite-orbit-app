@@ -44,7 +44,7 @@ streamlit run app.py
 ## 🌐 Live Demo
 Once deployed, your app will be available at:
 ```
-https://qkrqjatn218-satellite-orbit-app.streamlit.app
+https://satellite-orbit-app-ggufidwlvysrm9vciq7uwj.streamlit.app/
 ```
 
 ## 🧠 Developer
